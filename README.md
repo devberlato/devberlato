@@ -41,10 +41,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="27" alt="linkedin logo"  />
-    <a href="mailto:berlatobielofc@gmail.com">
+  <a href="https://www.linkedin.com/in/gabriel-menezes-berlato">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gabrielmenezesberlato@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="27">
+  </a>
 </div>
 
+###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devberlato/devberlato/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devberlato/devberlato/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devberlato/devberlato/output/pacman-contribution-graph.svg">
+</picture>

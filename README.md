@@ -42,6 +42,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  **<a href="mailto:your-email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">**
 </div>
 
 ###

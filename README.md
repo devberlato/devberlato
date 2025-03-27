@@ -46,9 +46,5 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="27">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/devberlato/devberlato/output/snake.svg" alt="Snake animation" />
-
-###
 
